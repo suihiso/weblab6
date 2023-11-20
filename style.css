@@ -95,6 +95,7 @@
     background-color: rgb(178, 215, 202);
 }
 .output{
+    user-select: none;
     cursor: pointer;
     font-weight: bold;
     text-transform: uppercase;
